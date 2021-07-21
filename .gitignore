@@ -1,3 +1,8 @@
 .[oa]
 *~
 /node_modules
+/node_modules/chalk
+/node_modules/chalk/source
+/node_modules/chalk/source/index.js
+/node_modules/chalk/source/templates.js
+/node_modules/chalk/source/util.js
